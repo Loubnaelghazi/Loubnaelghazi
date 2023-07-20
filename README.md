@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Loubnaelghazi.io)
-<h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
+<h1 align="right">Hi there 👋, I'm Loubna El Ghazi</h1>
 
 <h3 align="center">A passionate computer science student from Morocco.</h3>
 <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
