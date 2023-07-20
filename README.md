@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
 <h3 align="center">A passionate computer science from Morocco.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loubnaelghazi&label=Profile%20views&color=0e75b6&style=flat" alt="loubnaelghazi" /> </p>
 
 - 🔭 I’m currently working on [Syndic Pro Project](https://github.com/Loubnaelghazi/SyndicPro)
