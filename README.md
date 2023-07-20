@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h3 align="center">A passionate computer science from Morocco.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <br>
 
 
