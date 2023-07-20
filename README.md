@@ -26,8 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loubnaelghazi&show_icons=true&locale=en" alt="loubnaelghazi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loubnaelghazi&" alt="loubnaelghazi" /></p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Loubnaelghazi&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/Loubnaelghazi/Loubnaelghazi/blob/output/github-contribution-grid-snake.svg)
