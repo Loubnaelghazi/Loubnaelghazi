@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
 
 <h3 align="center">A passionate computer science student from Morocco.</h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubnaelghazi&label=Profile%20views&color=0e75b6&style=flat" alt="Loubnaelghazi" /> </p>
 
