@@ -1,4 +1,25 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Loubnaelghazi.io)
+<style>
+  body {
+    background-color: #f0f0f0; /* Couleur de fond de votre choix */
+    background-image: linear-gradient(45deg, #ff0000, #00ff00, #0000ff); /* Dégradé de couleurs de votre choix */
+    background-size: 600% 600%; /* Réglez la taille de l'arrière-plan animé */
+    animation: gradientAnimation 15s ease infinite; /* Réglez la durée et l'animation */
+  }
+
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+</style>
+
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
 
 <h3 align="center">A passionate computer science student from Morocco.</h3>
