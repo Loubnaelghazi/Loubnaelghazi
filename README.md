@@ -31,9 +31,10 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&locale=en&theme=tokyonight" alt="Loubnaelghazi" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Loubnaelghazi&&theme=tokyonight" alt="Loubnaelghazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&locale=en&theme=tokyonight" alt="Loubnaelghazi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loubnaelghazi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Loubnaelghazi" /></p>
 </div>
 
