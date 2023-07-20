@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/loubna-el-ghazi-030878254/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loubna el ghazi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/loubna el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="loubna el" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21214793/loubna-el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="loubna el" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
