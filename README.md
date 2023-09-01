@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate computer science student from Morocco.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubnaelghazi&label=Profile%20views&color=0e75b6&style=flat" alt="Loubnaelghazi" /> </p>
 
