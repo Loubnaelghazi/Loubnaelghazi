@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubnaelghazi&label=Profile%20views&color=0e75b6&style=flat" alt="Loubnaelghazi" /> </p>
 
-- 🔭 I’m currently working on [Syndic Pro Project](https://github.com/Loubnaelghazi/SyndicPro)
+- 🔭 I’m currently working on[[Coffee Website](https://github.com/Loubnaelghazi/project-react-coffee-website)]
 
 - 📫 How to reach me **loubna.elghazi1@etu.uae.ac.ma**
 
