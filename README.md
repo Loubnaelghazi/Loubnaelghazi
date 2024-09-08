@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
 
-<h3 align="center">A passionate AI and DATA SCIENCE science student from Morocco.</h3>
+<h3 align="center">A passionate AI and DATA SCIENCE student from Morocco.</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
