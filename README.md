@@ -1,4 +1,6 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Loubnaelghazi.io)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Data Science GIF" width="600" height="300"/>
+</p>
 
 
 <h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
