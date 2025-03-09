@@ -1,30 +1,29 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Science GIF" width="800" height="400" />
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Coding GIF" width="800" height="400" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Loubna El Ghazi</h1>
+<h1 align="center">Hi, I'm Loubna El Ghazi</h1>
 
 <h3 align="center">AI & Data Science Enthusiast | Passionate about Turning Data into Insights</h3>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a Master's student in **Artificial Intelligence and Data Science** at the Faculty of Science and Technology in Tanger, Morocco. With a strong foundation in computer engineering and a passion for solving complex problems, I specialize in **data analysis, machine learning, and AI-driven application development**. I'm always eager to learn new technologies and contribute to innovative projects.
 
-- 🔭 **Currently working on:** [PARADOX AI PROJECT](https://github.com/Loubnaelghazi/Paradox-AI)
-- 🌱 **Currently learning:** Advanced Machine Learning, Big Data Technologies, and NLP
-- 📫 **How to reach me:** [loubnaelghazi2@gmail.com](mailto:loubnaelghazi2@gmail.com)
-- 💼 **LinkedIn:** [Loubna El Ghazi](https://www.linkedin.com/in/loubna-el-ghazi-030878254/)
-- ⚡ **Fun fact:** I love solving puzzles and turning raw data into actionable insights!
+-  **Currently working on:** [PARADOX AI PROJECT](https://github.com/Loubnaelghazi/Paradox-AI)
+-  **Currently learning:** Advanced Machine Learning, Big Data Technologies, and NLP
+-  **How to reach me:** [loubnaelghazi2@gmail.com](mailto:loubnaelghazi2@gmail.com)
+-  **LinkedIn:** [Loubna El Ghazi](https://www.linkedin.com/in/loubna-el-ghazi-030878254/)
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠 Technical Skills
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Data Science & Machine Learning
@@ -36,6 +35,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 
 #### Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,27 +53,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 
 ---
 
-### 📂 Projects
-
-#### 1. **Real-Time Twitter Sentiment Analysis**
-- Developed a scalable system to process and analyze large volumes of Twitter data in real-time.
-- **Technologies used:** FastAPI, React, Apache Kafka, MongoDB, PySpark, NLP, Docker
-
-#### 2. **SMART FSTT Chatbot (AI Web Application)**
-- Created a chatbot using Retrieval-Augmented Generation (RAG) and fine-tuned on French language models.
-- **Technologies used:** NLP, LLM, Fine Tuning, RAG, FastAPI, React, Beautiful Soup, ChromaDB
-
-#### 3. **3D Model Indexing and Search System**
-- Developed a system for indexing and searching 3D models based on content.
-- **Technologies used:** MEAN Stack, Flask, OpenGL, 3D Fourier Transform, Zernike Moments
-
-#### 4. **Secure Medical Records Management (Blockchain Application)**
-- Built a decentralized solution to secure, trace, and share medical data between patients and healthcare providers using smart contracts and distributed storage.
-- **Technologies used:** Ethereum, Solidity, Web3.js, Truffle, Ganache, PyQt
-
----
-
-### 📚 Education
+###  Education
 
 - **Master's in Artificial Intelligence and Data Science**  
   Faculty of Science and Technology, Tanger  
@@ -85,7 +65,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - **Machine Learning Specialization** – Coursera, Stanford University | *Oct 2024*
 - **Artificial Intelligence Fundamentals** – IBM | *Jul 2024*
@@ -93,7 +73,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loubnaelghazi&theme=tokyonight" alt="Loubnaelghazi" />
@@ -103,7 +83,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/loubna-el-ghazi-030878254/" target="_blank">
