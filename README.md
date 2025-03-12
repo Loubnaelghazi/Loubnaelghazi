@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Coding GIF" width="800" height="400" />
-</p>
+<hr/>
 
 <h1 align="center">Hi, I'm Loubna El Ghazi</h1>
 
