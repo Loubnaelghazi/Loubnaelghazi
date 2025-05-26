@@ -26,7 +26,7 @@ I specialize in **AI application development, ML modeling, and data engineering 
 - 🎓 **MSc. in Artificial Intelligence and Data Science**  
   *2023 – 2025*, FST Tanger  
 
-- 🧑‍💻 **BSc. in Computer Engineering**  
+- 🧑‍💻 **BSc. in Computer Science **  
   *2020 – 2023*, FST Tanger  
 
 ---
