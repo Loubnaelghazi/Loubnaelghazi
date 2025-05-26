@@ -46,7 +46,7 @@ I specialize in **AI application development, ML modeling, and data engineering 
 | 🤖 **Generative AI & NLP**  | `HuggingFace Transformers`, `LangChain`, `OpenAI`, `SentenceTransformers`, `spaCy`, `transformers`, `RAG` |
 | 🌐 **Web & Frontend**       | `Angular 19 (standalone)`, `TailwindCSS`, `HTML`, `CSS`, `React` |
 | 🐍 **Backend & APIs**       | `FastAPI`, `Flask`, `SQLModel`, `SQLAlchemy` |
-| 📊 **Data Science & Viz**   | `matplotlib`, `seaborn`, `plotly` |
+| 📊 **Data Science**   | `matplotlib`, `seaborn`, `plotly` |
 | 🗃️ **Databases**            | `PostgreSQL`, `MongoDB`, `MySQL`, `Chroma` |
 | ☁️ **Others & DevOps**      | `Git`, `Docker`, `Kaggle`, `Jupyter`, `Figma` |
 
