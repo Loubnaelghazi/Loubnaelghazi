@@ -1,14 +1,13 @@
-<!-- HEADER ANIMÉ -->
+<!-- ✨ HEADER ANIMATION FIXED -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Loubna+El+Ghazi;AI+%7C+Data+Science+Engineer;Crafting+Smart+and+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Loubna+El+Ghazi;AI+%7C+Data+Science+Engineer;Crafting+Smart+and+Elegant+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/svg/capsule/rounded-rectangle.svg?color=8b5cf6&height=50&section=header&text=Welcome+to+My+World+🌐&fontColor=ffffff&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8b5cf6&height=100&section=header&text=Welcome+to+My+World+🌐&fontColor=ffffff&fontSize=24" />
 </p>
 
 ---
-
 
 ### 🔍 About Me
 
@@ -19,19 +18,16 @@ I specialize in **AI application development, ML modeling, and data engineering 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`mcp-server-project`](https://github.com/Loubnaelghazi/mcp-server-project)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`te_conectivity_project`](https://github.com/Loubnaelghazi/te_conectivity_project)  
 - 📘 **Currently learning:** Advanced Machine Learning, NLP, Big Data Tools  
-- 📫 **Reach me at:** [loubnaelghazi2@gmail.com](mailto:loubnaelghazi2@gmail.com)  
-- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/loubna-el-ghazi-030878254/)
-
 
 ---
 
 ### 🎓 Education
 
 - 🎓 **MSc. in Artificial Intelligence and Data Science**  
-  *2023 – 2025*, FST Tanger  
+  *2023 – 2025*, FST Tangier  
 
 - 🧑‍💻 **BSc. in Computer Engineering**  
-  *2020 – 2023*, FST Tanger  
+  *2020 – 2023*, FST Tangier  
 
 ---
 
@@ -53,44 +49,22 @@ I specialize in **AI application development, ML modeling, and data engineering 
 
 ---
 
-### 🤝 Let's Connect
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/loubna-el-ghazi-030878254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/21214793/loubna-el" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="mailto:loubnaelghazi2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
-
----
-
-### 🛠️ Stack technique
-
-| Domaine            | Outils principaux |
-|--------------------|------------------|
+| Area               | Tools |
+|--------------------|-------|
 | 🧠 **ML & AI**      | `scikit-learn`, `pandas`, `numpy`, `tensorflow`, `OpenCV`, `PyTorch` |
-| 🌐 **Web & Front**  | `Angular 19 (standalone)`, `TailwindCSS`, `HTML`, `CSS`, `React` |
-| 🐍 **Back & APIs**  | `FastAPI`, `Flask`, `SQLModel`, `SQLAlchemy` |
-| 🗃️ **Bases de données** | `PostgreSQL`, `MongoDB`, `MySQL` |
-| ☁️ **Autres**       | `Git`, `Docker`, `Kaggle`, `Jupyter`, `Figma` |
+| 🌐 **Web & Frontend**  | `Angular 19 (standalone)`, `TailwindCSS`, `HTML`, `CSS`, `React` |
+| 🐍 **Backend & APIs**  | `FastAPI`, `Flask`, `SQLModel`, `SQLAlchemy` |
+| 🗃️ **Databases**        | `PostgreSQL`, `MongoDB`, `MySQL` |
+| ☁️ **Other Tools**      | `Git`, `Docker`, `Kaggle`, `Jupyter`, `Figma` |
 
 ---
 
-### 🧩 Ce que j'aime créer
+### 🎯 What I Love Building
 
 ```txt
-🌀 Interfaces intuitives et modernes
-📊 Dashboards élégants pour visualiser des insights
-🧠 Modèles ML utiles et éthiques
-🎨 Designs harmonieux entre frontend & backend
+🌀 Intuitive and modern user interfaces
+📊 Elegant dashboards for data insights
+🧠 Practical and ethical ML models
+🎨 Seamless frontend + backend design integration
