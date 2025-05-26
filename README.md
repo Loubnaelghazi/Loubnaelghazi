@@ -1,4 +1,4 @@
-<!-- HEADER ANIMATED -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Loubna+El+Ghazi;AI+%7C+Data+Science+Engineer;Crafting+Smart+and+Elegant+Solutions" alt="Typing SVG" />
 </p>
@@ -72,6 +72,22 @@ I specialize in **AI application development, ML modeling, and data engineering 
     <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=TE_CONNECTIVITY_project&theme=radical&hide_border=true&border_radius=20" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Loubnaelghazi/big-data">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=big-data&theme=radical&hide_border=true&border_radius=20" />
+  </a>
+  <a href="https://github.com/Loubnaelghazi/Blockchain_Project">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=Blockchain_Project&theme=radical&hide_border=true&border_radius=20" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Loubnaelghazi/Projet_llm_vf">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=Projet_llm_vf&theme=radical&hide_border=true&border_radius=20" />
+  </a>
+</p>
+
 
 ---
 
