@@ -64,10 +64,14 @@ I specialize in **AI application development, ML modeling, and data engineering 
 
 ### 📈 GitHub Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=radical&border_radius=20&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Loubnaelghazi&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="400"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p>
+
 
 
 ### 🤝 Let’s Connect
 
 <p align="center"> <a href="https://www.linkedin.com/in/loubna-el-ghazi-030878254/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://stackoverflow.com/users/21214793/loubna-el" target="_blank"> <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/> </a> <a href="mailto:loubnaelghazi2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> 
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/> </p>
+
+
 
