@@ -15,7 +15,7 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 I specialize in **AI application development, ML modeling, and data engineering pipelines** with a passion for clean code and impactful insights.
 
 - 🔧 **Currently working on:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [[`mcp-server-project`](https://github.com/Loubnaelghazi/mcp-app-demo)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`mcp-server-project`](https://github.com/Loubnaelghazi/mcp-app-demo)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`TE_Connectivity_PROJECT`](https://github.com/Loubnaelghazi/TE_CONNECTIVITY_project)  
 - 📘 **Currently learning:** Advanced Machine Learning, NLP, Big Data Tools  
 
