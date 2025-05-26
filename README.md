@@ -68,6 +68,9 @@ I specialize in **AI application development, ML modeling, and data engineering 
   <a href="https://github.com/Loubnaelghazi/mcp-app-demo">
     <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=mcp-app-demo&theme=radical&hide_border=true&border_radius=20" />
   </a>
+  <a href="https://github.com/Loubnaelghazi/Projet_llm_vf">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=Projet_llm_vf&theme=radical&hide_border=true&border_radius=20" />
+  </a>
 
 </p>
 
@@ -80,11 +83,7 @@ I specialize in **AI application development, ML modeling, and data engineering 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Loubnaelghazi/Projet_llm_vf">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=Projet_llm_vf&theme=radical&hide_border=true&border_radius=20" />
-  </a>
-</p>
+
 
 
 ---
