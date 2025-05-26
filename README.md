@@ -15,8 +15,8 @@ I'm a Master's student in **Artificial Intelligence and Data Science** at the Fa
 I specialize in **AI application development, ML modeling, and data engineering pipelines** with a passion for clean code and impactful insights.
 
 - 🔧 **Currently working on:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`mcp-server-project`](https://github.com/Loubnaelghazi/mcp-server-project)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`te_conectivity_project`](https://github.com/Loubnaelghazi/te_conectivity_project)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [[`mcp-server-project`](https://github.com/Loubnaelghazi/mcp-app-demo)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 [`TE_Connectivity_PROJECT`](https://github.com/Loubnaelghazi/TE_CONNECTIVITY_project)  
 - 📘 **Currently learning:** Advanced Machine Learning, NLP, Big Data Tools  
 
 ---
@@ -62,10 +62,23 @@ I specialize in **AI application development, ML modeling, and data engineering 
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Loubnaelghazi/mcp-app-demo">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=mcp-app-demo&theme=radical&hide_border=true&border_radius=20" />
+  </a>
+  <a href="https://github.com/Loubnaelghazi/TE_CONNECTIVITY_project">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Loubnaelghazi&repo=TE_CONNECTIVITY_project&theme=radical&hide_border=true&border_radius=20" />
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=radical&border_radius=20&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Loubnaelghazi&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="400"/> </p>
 
-
+---
 
 ### 🤝 Let’s Connect
 
