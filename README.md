@@ -38,16 +38,18 @@ I specialize in **AI application development, ML modeling, and data engineering 
 - ✅ Tools for Data Science – *IBM/Coursera* – Sep 2024  
 
 ---
-
 ### 🛠️ Technical Stack
 
-| Domain               | Main Tools |
-|----------------------|------------|
-| 🧠 **ML & AI**        | `scikit-learn`, `pandas`, `numpy`, `tensorflow`, `OpenCV`, `PyTorch` |
-| 🌐 **Web & Frontend** | `Angular 19 (standalone)`, `TailwindCSS`, `HTML`, `CSS`, `React` |
-| 🐍 **Backend & APIs** | `FastAPI`, `Flask`, `SQLModel`, `SQLAlchemy` |
-| 🗃️ **Databases**      | `PostgreSQL`, `MongoDB`, `MySQL` |
-| ☁️ **Others**         | `Git`, `Docker`, `Kaggle`, `Jupyter`, `Figma` |
+| Domain                      | Main Tools |
+|-----------------------------|------------|
+| 🧠 **ML & AI**               | `scikit-learn`, `pandas`, `numpy`, `tensorflow`, `OpenCV`, `PyTorch` |
+| 🤖 **Generative AI & NLP**  | `HuggingFace Transformers`, `LangChain`, `OpenAI`, `SentenceTransformers`, `spaCy`, `transformers`, `RAG` |
+| 🌐 **Web & Frontend**       | `Angular 19 (standalone)`, `TailwindCSS`, `HTML`, `CSS`, `React` |
+| 🐍 **Backend & APIs**       | `FastAPI`, `Flask`, `SQLModel`, `SQLAlchemy` |
+| 📊 **Data Science & Viz**   | `matplotlib`, `seaborn`, `plotly` |
+| 🗃️ **Databases**            | `PostgreSQL`, `MongoDB`, `MySQL`, `Chroma` |
+| ☁️ **Others & DevOps**      | `Git`, `Docker`, `Kaggle`, `Jupyter`, `Figma` |
+
 
 ---
 
