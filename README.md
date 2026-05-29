@@ -100,7 +100,7 @@ Publications and preprints will be listed SOON.
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/loubna-el-ghazi-030878254/
-- Email: loubnaelghazi5@gmail.com
+- Email: loubna.elghazi1@etu.uae.ac.ma
 
 ---
 
