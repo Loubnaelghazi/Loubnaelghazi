@@ -93,7 +93,7 @@ Research on explainability reliability and robustness for cybersecurity machine 
 
 ## Publications
 
-Publications and preprints will be listed here.
+Publications and preprints will be listed SOON.
 
 ---
 
@@ -101,9 +101,7 @@ Publications and preprints will be listed here.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=default&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&hide_border=true"/>
 
 </div>
 
