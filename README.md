@@ -7,8 +7,10 @@ PhD Researcher in Artificial Intelligence & Cybersecurity
 
 *Trustworthy AI • Explainable AI • Cybersecurity • Large Language Models*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loubna-el-ghazi-030878254/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loubna.elghazi1@etu.uae.ac.ma)
+[LinkedIn](https://www.linkedin.com/in/loubna-el-ghazi-030878254/) •
+[ORCID](https://orcid.org/0009-0004-1858-3248) •
+[ResearchGate](https://www.researchgate.net/profile/Loubna-El-Ghazi) •
+[Email](mailto:loubna.elghazi1@etu.uae.ac.ma)
 
 </div>
 
@@ -29,6 +31,7 @@ My research focuses on developing trustworthy artificial intelligence frameworks
 - Large Language Models (LLMs)
 - Adversarial Machine Learning
 - Responsible AI
+
 
 ---
 
