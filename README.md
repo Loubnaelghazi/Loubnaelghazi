@@ -97,16 +97,6 @@ Publications and preprints will be listed SOON.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=default&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/loubna-el-ghazi-030878254/
