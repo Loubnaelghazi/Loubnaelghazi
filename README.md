@@ -94,10 +94,20 @@ Research on explainability reliability and robustness for cybersecurity machine 
 
 ---
 
-## Publications
+## Academic Activities
 
-Publications and preprints will be listed SOON.
+### Accepted Conference Paper
 
+**Stable but Misleading: Adversarial Misdirection in Explanation Reliability for Security Operations**
+
+Accepted at DATA'26 International Conference (2026)
+
+### Accepted Poster
+
+**Towards a Trustworthy AI Framework for Next-Generation SOCs**
+
+Accepted at EAI SecureComm 2026
+(Not presented and not included in proceedings)
 ---
 
 ## Contact
