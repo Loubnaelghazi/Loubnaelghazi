@@ -36,7 +36,7 @@ My research focuses on developing trustworthy artificial intelligence frameworks
 
 | Degree | Institution | Period |
 |----------|------------|----------|
-| PhD in Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University | 2025 – Present |
+| PhD in Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University, FST Tangier, C3S LAB | 2025 – Present |
 | MST in Artificial Intelligence & Data Science | FST Tangier | 2023 – 2025 |
 | BSc in Computer Science | FST Tangier | 2020 – 2023 |
 
