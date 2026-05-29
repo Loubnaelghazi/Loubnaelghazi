@@ -106,8 +106,8 @@ Accepted at DATA'26 International Conference (2026)
 
 **Towards a Trustworthy AI Framework for Next-Generation SOCs**
 
-Accepted at EAI SecureComm 2026
-(Not presented and not included in proceedings)
+Accepted at EAI SecureComm 2026(Not presented and not included in proceedings)
+
 ---
 
 ## Contact
