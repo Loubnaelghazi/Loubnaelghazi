@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=180&section=header&text=Loubna%20El%20Ghazi&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFC0CB&text=Loubna%20El%20Ghazi&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
-<div align="center">
 
 # 🌸 Loubna El Ghazi
 
@@ -17,7 +16,25 @@
 [Email](mailto:loubna.elghazi1@etu.uae.ac.ma)
 
 </div>
+<p align="center">
 
+<a href="https://www.linkedin.com/in/loubna-el-ghazi-030878254/">
+<img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0004-1858-3248">
+<img src="https://img.shields.io/badge/ORCID-F8BBD0?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Loubna-El-Ghazi">
+<img src="https://img.shields.io/badge/ResearchGate-FADADD?style=for-the-badge&logo=researchgate&logoColor=black"/>
+</a>
+
+<a href="mailto:loubna.elghazi1@etu.uae.ac.ma">
+<img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🌸 ようこそ (Welcome)
