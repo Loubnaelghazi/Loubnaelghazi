@@ -1,11 +1,12 @@
-
 <div align="center">
 
-# Loubna El Ghazi
+# 🌸 Loubna El Ghazi
 
-PhD Researcher in Artificial Intelligence & Cybersecurity
+### PhD Researcher in Artificial Intelligence & Cybersecurity
 
-*Trustworthy AI • Explainable AI • Cybersecurity • Large Language Models*
+*"Building AI systems that deserve to be trusted."*
+
+🌸 Trustworthy AI • Explainable AI • AI for Cybersecurity • Large Language Models 🌸
 
 [LinkedIn](https://www.linkedin.com/in/loubna-el-ghazi-030878254/) •
 [ORCID](https://orcid.org/0009-0004-1858-3248) •
@@ -16,106 +17,115 @@ PhD Researcher in Artificial Intelligence & Cybersecurity
 
 ---
 
-## About
+## 🌸 ようこそ (Welcome)
 
-I am a PhD Researcher at Abdelmalek Essaadi University, Morocco.
+Like cherry blossoms, research is a journey of patience, growth, and continuous learning.
 
-My research focuses on developing trustworthy artificial intelligence frameworks for next-generation Security Operations Centers (SOCs), with an emphasis on explainability, robustness, reliability, and human-centered AI.
+I am a PhD researcher at **Abdelmalek Essaadi University (C3S Lab)**, working on trustworthy Artificial Intelligence for next-generation Security Operations Centers.
 
-### Research Interests
-
-- Trustworthy Artificial Intelligence
-- Explainable Artificial Intelligence (XAI)
-- AI for Cybersecurity
-- Security Operations Centers (SOCs)
-- Large Language Models (LLMs)
-- Adversarial Machine Learning
-- Responsible AI
-
+My research focuses on making AI systems **explainable, robust, reliable, and human-centered**, ensuring that intelligent cyber defense systems can truly be trusted.
 
 ---
 
-## Education
+## 🌸 Research Interests
 
-| Degree | Institution | Period |
-|----------|------------|----------|
-| PhD in Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University, FST Tangier, C3S LAB | 2025 – Present |
-| MST in Artificial Intelligence & Data Science | FST Tangier | 2023 – 2025 |
-| BSc in Computer Science | FST Tangier | 2020 – 2023 |
+Trustworthy Artificial Intelligence
 
----
+Explainable AI (XAI)
 
-## Technical Skills
+AI for Cybersecurity
 
-### Artificial Intelligence & Machine Learning
+Large Language Models
 
-`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `SHAP`
+Adversarial Machine Learning
 
-### Large Language Models
+Responsible AI
 
-`Transformers` `LangChain` `RAG` `OpenAI` `Ollama`
-
-### Data Science
-
-`Pandas` `NumPy` `Matplotlib` `Plotly`
-
-### Backend & Databases
-
-`FastAPI` `Flask` `PostgreSQL` `MongoDB` `SQLAlchemy`
-
-### DevOps & Tools
-
-`Docker` `Git` `Linux` `Jupyter Notebook`
+Security Operations Centers
 
 ---
 
-## Current Research
+## 🌸 Education
 
-My current doctoral research investigates:
-
-- Explainability robustness in cybersecurity AI systems
-- Adversarial manipulation of AI explanations
-- Trustworthiness metrics for Security Operations Centers
-- Human-AI collaboration in cyber defense
-- LLM-assisted security analysis
+| Degree | Institution |
+|---------|-------------|
+| 🎓 PhD — Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University |
+| 🎓 MST — Artificial Intelligence & Data Science | FST Tangier |
+| 🎓 BSc — Computer Science | FST Tangier |
 
 ---
 
-## Selected Projects
+## 🌸 Technical Stack
 
-### MCP Application Development
-Development of AI-powered applications using the Model Context Protocol ecosystem.
+### AI
 
-### Large Language Model Applications
-Design and implementation of retrieval-augmented generation systems and intelligent assistants.
+Python • PyTorch • TensorFlow • Scikit-Learn • SHAP
 
-### Trustworthy AI Research
-Research on explainability reliability and robustness for cybersecurity machine learning models.
+### LLMs
 
----
+Transformers • LangChain • RAG • Ollama
 
-## Academic Activities
+### Data
 
-### Accepted Conference Paper
+Pandas • NumPy • Plotly • Matplotlib
 
-**Stable but Misleading: Adversarial Misdirection in Explanation Reliability for Security Operations**
+### Backend
 
-Accepted at DATA'26 International Conference (2026)
+FastAPI • Flask • PostgreSQL • MongoDB
 
-### Accepted Poster
+### Tools
 
-**Towards a Trustworthy AI Framework for Next-Generation SOCs**
-
-Accepted at EAI SecureComm 2026(Not presented and not included in proceedings)
+Linux • Docker • Git • Jupyter
 
 ---
 
-## Contact
+## 🌸 Current Research
 
-- LinkedIn: https://www.linkedin.com/in/loubna-el-ghazi-030878254/
-- Email: loubna.elghazi1@etu.uae.ac.ma
+Working on trustworthy AI for cybersecurity, including
+
+- Explainability robustness
+- Adversarial attacks on explanations
+- Human-AI collaboration
+- LLM-assisted SOC analysts
+- Trustworthiness evaluation
 
 ---
 
-*"Building AI systems that deserve to be trusted."*
-```
+## 🌸 Publications
+
+📄 **Stable but Misleading: Adversarial Misdirection in Explanation Reliability for Security Operations**
+
+Accepted at **DATA 2026**
+
+📌 **Towards a Trustworthy AI Framework for Next-Generation SOCs**
+
+Accepted Poster — **SecureComm 2026**
+
+---
+
+## 🌸 Philosophy
+
+> 「一期一会」
+
+> *Every encounter is unique.*
+
+Just as cherry blossoms bloom for a brief moment, every collaboration, research idea, and shared experience is an opportunity to create something meaningful.
+
+---
+──────────────────────────────────────
+
+🌸 桜 (Sakura)
+
+"In every blossom, there is the promise of a new beginning."
+
+<div align="center">
+
+🌸 Thank you for visiting my profile 🌸
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent"/>
+
+</p>
+</div>
