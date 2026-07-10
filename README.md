@@ -138,11 +138,5 @@ Just as cherry blossoms bloom for a brief moment, every collaboration, research 
 <div align="center">
 
 🌸 Thank you for visiting my profile 🌸
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&theme=transparent"/>
-
-</p>
 </div>
