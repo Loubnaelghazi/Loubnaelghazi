@@ -10,10 +10,7 @@
 
 🌸 Trustworthy AI • Explainable AI • AI for Cybersecurity • Large Language Models 🌸
 
-[LinkedIn](https://www.linkedin.com/in/loubna-el-ghazi-030878254/) •
-[ORCID](https://orcid.org/0009-0004-1858-3248) •
-[ResearchGate](https://www.researchgate.net/profile/Loubna-El-Ghazi) •
-[Email](mailto:loubna.elghazi1@etu.uae.ac.ma)
+
 
 </div>
 <p align="center">
