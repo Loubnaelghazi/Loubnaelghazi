@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=180&section=header&text=Loubna%20El%20Ghazi&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+</p>
 <div align="center">
 
 # 🌸 Loubna El Ghazi
@@ -49,9 +52,9 @@ Security Operations Centers
 
 | Degree | Institution |
 |---------|-------------|
-| 🎓 PhD — Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University |
-| 🎓 MST — Artificial Intelligence & Data Science | FST Tangier |
-| 🎓 BSc — Computer Science | FST Tangier |
+|  PhD — Artificial Intelligence & Cybersecurity | Abdelmalek Essaadi University |
+|  MST — Artificial Intelligence & Data Science | FST Tangier |
+|  BSc — Computer Science | FST Tangier |
 
 ---
 
@@ -93,11 +96,11 @@ Working on trustworthy AI for cybersecurity, including
 
 ## 🌸 Publications
 
-📄 **Stable but Misleading: Adversarial Misdirection in Explanation Reliability for Security Operations**
+ **Stable but Misleading: Adversarial Misdirection in Explanation Reliability for Security Operations**
 
 Accepted at **DATA 2026**
 
-📌 **Towards a Trustworthy AI Framework for Next-Generation SOCs**
+ **Towards a Trustworthy AI Framework for Next-Generation SOCs**
 
 Accepted Poster — **SecureComm 2026**
 
@@ -112,7 +115,7 @@ Accepted Poster — **SecureComm 2026**
 Just as cherry blossoms bloom for a brief moment, every collaboration, research idea, and shared experience is an opportunity to create something meaningful.
 
 ---
-──────────────────────────────────────
+
 
 🌸 桜 (Sakura)
 
