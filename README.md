@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFC0CB&text=Loubna%20El%20Ghazi&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 </p>
 
-# 🌸 Loubna El Ghazi
+# 🌸 
 
 ### PhD Researcher in Artificial Intelligence & Cybersecurity
 
@@ -140,9 +140,9 @@ Just as cherry blossoms bloom for a brief moment, every collaboration, research 
 🌸 Thank you for visiting my profile 🌸
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Loubnaelghazi&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loubnaelghazi&layout=compact&theme=transparent"/>
 
 </p>
 </div>
